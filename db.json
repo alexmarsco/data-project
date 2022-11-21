@@ -1,6 +1,6 @@
 {
-  "cities":[
-    {
+  "posts": [
+{
         "id": 1,
         "nombre": "Bogot&aacute;",
         "pais": "Colombia"
@@ -25,5 +25,5 @@
         "nombre": "Caracas",
         "pais": "Venezuela"
     }
-]
+  ]
 }
