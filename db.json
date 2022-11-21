@@ -1,29 +1,29 @@
 {
   "posts": [
-{
-        "id": 1,
-        "nombre": "Bogot&aacute;",
-        "pais": "Colombia"
+    {
+      "id": 1,
+      "nombre": "Bogot&aacute;",
+      "pais": "Colombia"
     },
     {
-        "id": 2,
-        "nombre": "Buenos Aires",
-        "pais": "Argentina"
+      "id": 2,
+      "nombre": "Buenos Aires",
+      "pais": "Argentina"
     },
     {
-        "id": 3,
-        "nombre": "Santiago",
-        "pais": "Chile"
+      "id": 3,
+      "nombre": "Santiago",
+      "pais": "Chile"
     },
     {
-        "id": 4,
-        "nombre": "Lima",
-        "pais": "Per&uacute;"
+      "id": 4,
+      "nombre": "Lima",
+      "pais": "Per&uacute;"
     },
     {
-        "id": 5,
-        "nombre": "Caracas",
-        "pais": "Venezuela"
+      "id": 5,
+      "nombre": "Caracas",
+      "pais": "Venezuela"
     }
   ]
 }
