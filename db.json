@@ -1,4 +1,5 @@
-[
+{
+  "cities":[
     {
         "id": 1,
         "nombre": "Bogot&aacute;",
@@ -30,3 +31,4 @@
         "pais": "Ecuador"
     }
 ]
+}
