@@ -24,11 +24,6 @@
         "id": 5,
         "nombre": "Caracas",
         "pais": "Venezuela"
-    },
-    {
-        "id": 6,
-        "nombre": "Quito",
-        "pais": "Ecuador"
     }
 ]
 }
